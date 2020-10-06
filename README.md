@@ -10,7 +10,9 @@ Birthday|Favorite color|Favorite food|Pinneapple on pizza
 #### Hobbies
 
 *Fashion
+
 *Movies 
+
   *Titanic
   *Tenet
   *Jumanji
