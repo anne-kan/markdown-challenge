@@ -1,6 +1,8 @@
 # Anne
 *You never know how strong you are until being strong is your only choice.*
 
+![Me]()
+
 ##### determined
 
 Birthday|Favorite color|Favorite food|Pinneapple on pizza
@@ -9,14 +11,14 @@ Birthday|Favorite color|Favorite food|Pinneapple on pizza
 
 #### Hobbies
 
-*Fashion
+* Fashion
 
-*Movies 
+* Movies 
 
-  *Titanic
-  *Tenet
-  *Jumanji
-  *Black Panther
+  * Titanic
+  * Tenet
+  * Jumanji
+  * Black Panther
   
 ###### You can always count on me when need a shoulder to lean on.
 
