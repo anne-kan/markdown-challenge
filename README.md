@@ -1,9 +1,9 @@
 # Anne
 *You never know how strong you are until being strong is your only choice.*
 
-![Me]()
+![Me](https://github.com/anne-kan/markdown-challenge/blob/main/bw.jpg)
 
-##### determined
+### "Determined"
 
 Birthday|Favorite color|Favorite food|Pinneapple on pizza
 --------|--------------|-------------|-------------------
@@ -26,6 +26,7 @@ I will go with what comes on at the time.
 
 #### A funny story
 When I was young I was a tomboy, I never wore a dress. I was playing football!
+
 ###### TL;DR
 Rebel flower
 
